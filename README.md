@@ -1,7 +1,7 @@
 # Embedded IR Sensor Project
 
 ## Overview
-This project demonstrates object detection using an IR sensor with Arduino.
+This project demonstrates object detection using an IR sensor with ESP32.
 
 ## Features
 - Object detection
