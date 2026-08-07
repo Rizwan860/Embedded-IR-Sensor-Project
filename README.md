@@ -28,4 +28,4 @@ When an object comes near the IR sensor:
 - Embedded projects
 
 ## Author
-SHAIK IZWAN BASHA.
+SHAIK RIZWAN BASHA.
