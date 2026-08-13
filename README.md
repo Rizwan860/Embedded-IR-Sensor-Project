@@ -1,6 +1,6 @@
 # Embedded IR Sensor Project
 
-## Overview
+## Overviee
 This project demonstrates object detection using an IR sensor with ESP32.
 
 ## Features
